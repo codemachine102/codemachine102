@@ -4,7 +4,7 @@
 <br/>
 - 🔭 Full-stack developer with 10 years of experience designing and building scalable, high-performance Web3 web and mobile applications<br/>
 - 🌱 Proficient in Block technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, Solana, Terra, Cosmos platforms<br/>
-- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js<br/> 
+- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
 - 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
@@ -26,11 +26,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
       <img src="https://ui-lib.com/blog/wp-content/uploads/2022/05/nuxtjs-vs-nextjs-comparision.png" alt="nuxtjs" width="70" height="45" />
+      <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" />
       <img src="https://miro.medium.com/max/700/1*iXsCHAHPN7xFAWuuWjE6-Q.png" alt="nextjs" width="45" height="45" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tailwind_CSS_logo.svg" alt="tailwindcss" width="135" height="45" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
       <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="bootstrap" width="45" height="45" />0
-      <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="45" />
     </div>
   </div>
   <div>
